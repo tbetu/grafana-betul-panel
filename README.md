@@ -7,6 +7,7 @@ Features:
 - Student name displayed
 - Supports Grafana queries
 - Custom text and styling
+- Smart Analysis Feature
 
 Developed by **Betül Demirtaş**
 
@@ -16,6 +17,7 @@ Developed by **Betül Demirtaş**
 
 
     Smart Analysis Feature
+
 The panel reads numeric time-series data from Grafana queries and performs 
 a simple anomaly detection using mean and standard deviation.
 
