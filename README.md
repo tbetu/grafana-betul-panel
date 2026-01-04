@@ -1,6 +1,6 @@
 # Betül Final Grafana Panel Plugin
 
-This is my final project panel plugin for Grafana course.
+This is my final project panel plugin for Web App Development course.
 
 Features:
 - Custom panel
